@@ -3,7 +3,7 @@
 Before starting, ensure you have:
  
 - Ubuntu server installed
-- Basic knowledge of working with the command line and installing packages- ## Installation Steps
+- Basic knowledge of working with the command line and installing packages
 - Install Nginx
 
 ```bash
