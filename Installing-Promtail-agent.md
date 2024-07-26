@@ -68,9 +68,10 @@ sudo systemctl start promtail.service
 ### You can also check the promtail service status by using –
 ```
 systemctl status promtail.service
-
-![image](https://github.com/user-attachments/assets/d4e11ef1-eed7-41c6-90c0-0fc0349aa281)
 ```
+![image](https://github.com/user-attachments/assets/2899c9db-03f7-47f3-bfe9-f070c9d74237)
+
+
 
 
 
