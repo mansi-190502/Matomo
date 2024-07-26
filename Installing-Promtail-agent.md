@@ -68,6 +68,7 @@ sudo systemctl start promtail.service
 ### You can also check the promtail service status by using –
 ```
 systemctl status promtail.service
+
 ![image](https://github.com/user-attachments/assets/d4e11ef1-eed7-41c6-90c0-0fc0349aa281)
 ```
 ### Configuring Loki data source
@@ -80,6 +81,7 @@ http://localhost:3000
 Once logged in successfully you will be able to see the Grafana dashboard.
 
 ![image](https://github.com/user-attachments/assets/d6c7f144-ca2f-4b51-8b6f-25de81509c48)
+
 Go to Configuration> Data sources> Add Data Source now find and click on Loki.
 
 Add the following settings to this page –
@@ -89,6 +91,7 @@ Name – Loki
 URL – http://localhost:3100
 
 As you can see in the image below.
+
 ![image](https://github.com/user-attachments/assets/dbdfc3a7-0a0a-476f-bebf-80d2c38aae60)
 
 Scroll down and click on Save & test.
